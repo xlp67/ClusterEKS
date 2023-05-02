@@ -1,0 +1,5 @@
+.terraform/
+kubeconfig
+*.sh
+*.pem
+aws-iam-authenticator.kubeconfig
